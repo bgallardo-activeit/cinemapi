@@ -1,0 +1,1 @@
+const mensaje = 'Base de datos corriendo correctamente';
